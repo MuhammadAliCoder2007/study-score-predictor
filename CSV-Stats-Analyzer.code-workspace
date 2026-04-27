@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../CSV-Stats-Analyzer"
+		},
+		{
+			"path": "../Dice-Simulation-Engine"
+		},
+		{
+			"path": "../Text-Log-Analyzer"
+		},
+		{
+			"path": "../To-Do-List"
+		}
+	]
+}
